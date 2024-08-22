@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>Hospital Home</title>
+</head>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+    <style>
+        /* Reset some default browser styles */
+        body, h1, p {
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Basic styles */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            font-size: 2em;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 1em;
+            margin-bottom: 20px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+
+        /* Responsive layout using flexbox */
+        .flex-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        .flex-item {
+            flex: 1 1 300px;
+            padding: 20px;
+            background-color: #e2e2e2;
+            border-radius: 8px;
+        }
+
+        /* Media queries for smaller screens */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.5em;
+            }
+
+            p {
+                font-size: 1.2em;
+            }
+        }
+
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 1.2em;
+            }
+
+            p {
+                font-size: 1em;
+            }
+
+            .container {
+                padding: 10px;
+            }
+
+            .flex-item {
+                padding: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="./images/logo.png" alt="logo" class="responsive-img">
+        <h1>LIFE HEALTHCARE </h1><br>
+        
+           
+
+    <header>
+
+
+        <div class="text-grid">
+            <nav>
+                <ul>
+                   
+            </nav>
+            <p> <li><a href="index.html">Home</a></li></p>
+            <p> <li><a href="about.html">About Us</a></li></p>
+            <p><li><a href="services.html">Services</a></li></p>
+            <p><li><a href="doctors.html">Doctors</a></li></p>
+            <p><li><a href="consulting.html">Consulting</a></li></p>
+            <p> <li><a href="pharmacy.html">Pharmacy</a></li></p>
+        </ul>
+        </div>
+        
+    </header>
+
+    <main>
+        <section>
+            <h1>Welcome to Our Hospital</h1>
+            <img src="./images/welcome_patients.jpg" alt="Hospital Main Image" class="responsive-img" >
+            
+            <p>We provide top-notch healthcare services across various specialties. Our dedicated team of professionals ensures you receive the best care.</p>
+        </section>
+
+        <section>
+            <h2>Our Services</h2>
+            <img src="./images/service 1.jpeg" alt="Service 1" class="responsive-img">
+            
+            <p>We offer a wide range of services including outpatient care, emergency services, and specialized treatments.</p>
+        </section>
+
+        <section>
+            <h2>Meet Our Doctors</h2>
+            <img src="./images/grp of docs.webp" alt="Service 1" class="responsive-img">
+            <img src="./images/service ppl.jpg" alt="Service 1" class="responsive-img">
+            <p>Our doctors are highly qualified and experienced professionals committed to your health.</p>
+        </section>
+
+        <section>
+            <h2>Why Choose Us?</h2>
+            <ul>
+                <li>High-quality patient care</li>
+                <li>Advanced medical technology</li>
+                <li>Experienced healthcare professionals</li>
+            </ul>
+            <ol>
+                <li>Book an appointment easily</li>
+                <li>Access to emergency services 24/7</li>
+                <li>Comprehensive health checks</li>
+            </ol>
+        </section>
+    </main>
+
+
+
+
+
+
+    <main>
+        <section>
+            <h1>About Our Hospital</h1>
+            <p>We have multiple branches across the city, each equipped with state-of-the-art facilities.</p>
+            <div>
+                <h2>Branch 1: Downtown</h2>
+                <img src="./images/downtown.jpg" alt="Branch 1 Image" class="responsive-img">
+                <p>Located in the heart of the city, our Downtown branch offers a wide range of services.</p>
+            </div>
+            <div>
+                <h2>Branch 2: Uptown</h2>
+                <img src="./images/uptown.png" alt="Branch 2 Image" class="responsive-img">
+                <p>Our Uptown branch is known for its specialized surgical units.</p>
+            </div>
+        </section>
+
+        <section>
+            <h2>Hospital Summary</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Branch</th>
+                        <th>Location</th>
+                        <th>Services</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Downtown</td>
+                        <td>Central City</td>
+                        <td>General, Emergency, Cardiology</td>
+                    </tr>
+                    <tr>
+                        <td>Uptown</td>
+                        <td>North City</td>
+                        <td>Surgery, Orthopedics</td>
+                    </tr>
+                    <tr>
+                        <td>Westside</td>
+                        <td>West City</td>
+                        <td>Pediatrics, Maternity</td>
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="3">Contact us for more information about our branches.</td>
+                    </tr>
+                </tfoot>
+            </table>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Our Hospital. All Rights Reserved.</p>
+        <!-- Footer developer comment -->
+    </footer>
+</body>
+</html>

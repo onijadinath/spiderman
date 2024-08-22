@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>MY WEB PAGE</title>
+    <title>HORSES</title>
+
+
+</head>
+<body>
+
+    <BODY bgcolor="white">
+<u><center><h1 style="font-size:xx-large; font-size: xx-large; color: crimson;">HORSES</h1></center></u>
+
+
+<img src="./horse/horse 2.jpg" width="2000" height="1000"><br>
+
+  
+    <ul>
+        <li><a href="https://www.youtube.com/" target="_blank">YOUTUBE  vedios of horses</a></li>
+        <li><a href="https://www.facebook.com/" target="_blank">facebook page on horse</a></li>
+        <li><a href="https://www.instagram.com/" target="_blank">instagram page on horses</a></li>
+
+    </ul>
+ <h2 style="background-color: beige;">NAVIGATION BUTTONS</h2>
+    <ul>
+        <li><a href=#d1>Para 1</a></li>
+        <li><a href=#d2>Para 2 </a></li>
+        <li><a href=#d3>Para 3</a></li>
+       
+    </ul>
+
+<div id="d1">
+    <h1>TYPES OF HORSES</h1>
+
+    <p style="font-size: larger; color: chocolate;">
+        There are hundreds of horse breeds found around the world, each uniquely adapted to their local environment and role in human society.
+    
+    Horses vary widely in appearance, size, and conformation, reflecting the particular conditions of their breed characteristics. Some are strong and heavy, ideal for farm work or pulling loads, while others are swift and agile, perfect for racing or equestrian sports.
+    
+    Many of North America’s most popular horse breeds are ones developed in Canada or the United States, while others have European, Asian or South American lineage.
+    
+    Although most North Americans no longer rely on equids for work and transportation, the continent is still home to millions of horses. Modern horse owners primarily use horses for recreation, companionship, and competition.
+    
+    This article will discuss the most popular horse breeds in North America, particularly on Canadian and United States populations.
+    </p>
+
+    <a href="https://www.youtube.com/watch?v=Aam3waXGu40" target="_blank"> TYPES OF HORSES </a> <br><br>
+
+     <img src="./horse/TYPES.webp" width="900" height="800 "><br>
+     <img src="./horse/TYPES 2.jpg" width="900" height="1000"><br><BR>
+        <img src="./horse/horse 3.jpg!sw800" width="600" height="500"><br><BR>
+
+
+</div>
+
+
+<div id="d2">
+    <h1>ALL ABOUT HORSES</h1>
+    <a href="https://www.amnh.org/explore/ology/zoology/all-about-horses" target="_blank">DETAILS</a><BR><BR>
+    <img src="./horse/horse 4.jpg" width="500" height="400"><br>
+    <img src="./horse/horse vedio.1.gif" width="500" height="400"><br>
+    <img src="./horse/horse vedio.2.gif" width="500" height="400"><br>
+
+<p style="color:darkgreen">Although horses are such well-known animals, the following facts may surprise you!
+    Horses can't breathe through their mouth. 
+    Horses can sleep standing up. 
+    Horses have excellent hearing. <br>
+    Horses have a nearly 360-degree field of vision. 
+    Horses have lightning fast reflexes. 
+    Foals can walk and run within a few hours after birth
+    They are majestic, strong and can display a broad range of emotions. <br>
+    Whether they're around humans or other horses, they are amazingly communicative and thrive in social settings. 
+    These qualities are part of the reason why horses can develop such a strong bond with humans.
+    Horses can see only two of the visible wavelengths in the light spectrum because they have only blue-sensitive cone cells
+ and yellow-sensitive cone cells. Thus, they see blue, green, and variations of the two colors, but do not see red<br>
+ \In simple terms, horses eat grass and hay or haylage, but salt, concentrates and fruits or vegetables can also enhance their diets, 
+depending on the required work regime and available feed.
+Yes! Horses are known for their intelligence and ability to communicate. <br>
+They are also very social animals who enjoy spending time around other horses.
+ Horses are highly evolved mammals that are capable of complex behaviors such as
+ learning from experience and communicating through body language.<BR><BR>
+</p>
+
+<div id="d3">
+    <h1>FUN FACTS </h1>
+    <a href="https://spca.bc.ca/news/fun-facts-about-horses/" target="_blank">FUN FACTS</a><BR><BR>
+        <img src="./horse/Fun-Facts.webp" width="800" height="500"><br><BR>
+        <img src="./horse/vedio 3.gif" width="800" height="400"><br><BR>
+            <img src="./horse/vedio 4.gif" width="800" height="400"><br>
+
+    <p style="color: brown;">Anyone who has interacted with a horse knows they are magnificent animals. 
+        Horses have been a part of our lives for thousands of years as companions, working animals and athletes in equestrian sport,<br>
+         to name a few. Although horses are such well-known animals, the following facts may surprise you!<BR> 
+     Horses are obligate nasal breathers. <BR>
+     This means that they are unable to breathe through their mouth as humans can. <br>
+     Horses can only breathe through their nose.<BR>
+        Horses have a “stay-apparatus” which is a system of tendons and ligaments that allows the horse to lock their legs in position so they can relax without falling over.<br>
+         When not sleeping, horses also use this apparatus to rest while standing for long periods of time. <br>
+         This allows them to conserve energy while standing so they are ready to take flight if needed.<br>
+          It is a myth that horses never lay down – they do spend a short amount of time each day laying down for deeper sleep.<br>
+           On average, horses sleep two and a half hours per day.</p>
+</div>
+
+
+
+    <table align-"center"cellspacing-"20px" cellpaddinge"Spx" border="1" cellpadding "2">
+    <caption align="bottom"> simple chart</caption>
+   
+    <tr>
+        <th>life span</th>
+        <th>height</th>
+        <th>weight</th>
+        <th>average speed</th>
+    </tr>
+
+
+    <tr>
+        <td>25-35 yrs</td>
+        <td>1.4-1.6 m</ta>
+        <td>200 pounds</td>
+        <td>72 kmph</td>
+    </tr>
+
+  
+    </table>
+    
+
+
+<h2>html H/W  with all elememts</h2>
+<form action ="/submit-form" method="post">//////
+
+
+</body>
+</html>

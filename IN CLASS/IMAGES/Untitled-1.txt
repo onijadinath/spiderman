@@ -1,0 +1,34 @@
+<table align-"center"cellspacing-"20px" cellpaddinge"Spx" border="1" cellpadding "2">
+    <caption align="bottom">My Table</caption>
+   
+    <tr>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Address</th>
+        <th>Contact No.</th>
+    </tr>
+
+
+    <tr>
+        <td>Nothing</td>
+        <td>Nothing</ta>
+        <td>Nothing</td>
+        <td>Nothing</td>
+    </tr>
+
+   
+    <tr>
+        <td>Nothing</td>
+        <td>Nothing</ta>
+        <td>Nothing</td>
+        <td>Nothing</td>
+    </tr>
+
+     <tr>
+        <td>Nothing</td>
+        <td>Nothing</ta>
+        <td>Nothing</td>
+        <td>Nothing</td>
+    </tr>
+    </table>
+    
